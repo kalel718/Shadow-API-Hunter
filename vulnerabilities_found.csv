@@ -1,0 +1,2 @@
+type,endpoint,success_rate,risk
+Potential Missing Rate Limiting,https://jsonplaceholder.typicode.com/todos/1,10/10,LOW

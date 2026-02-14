@@ -1,0 +1,4 @@
+Shadow API Security Assessment Report
+Target: https://jsonplaceholder.typicode.com
+Endpoints Found: 1
+Vulnerabilities Detected: 1
